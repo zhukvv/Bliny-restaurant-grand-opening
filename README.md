@@ -1,4 +1,4 @@
-# Bliny-restaurant-grand-opening
+# Bliny restaurant grand opening
 My second Changellenge course project. 
 
 The task was to define a list of cities to open a bliny fast-food restaurant(s) in. 
